@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+}
+
+.container2 {
+    flex:5;
+    background-color: lightgrey;
+}
+
+.visual{
+    display: flex;
+}
+
+.narrow{
+    flex:2
+}
+.broad{
+    flex:4
+}
+.card{
+    background: #fff;
+    margin: 10px;
+    height: 50vh;
+    border-radius: 30px;
+    padding: 20px;
+}

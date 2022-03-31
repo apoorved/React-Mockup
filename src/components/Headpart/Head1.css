@@ -1,0 +1,48 @@
+.Cont{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    align-items: center;    
+}
+
+.Dashboards{
+    font-size: 40px;
+}
+
+.heading{
+    display: flex;
+}
+
+.form-check{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.Back{
+    display: inline-block;
+}
+
+.Backicon{
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.backcont{
+    margin-left: 100px;
+}
+
+.btn-primary{
+    font-size: 15px;
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px; 
+    border-radius: 8px;
+    background-color: white; 
+}
+
+.btn-primary:hover{
+    background-color:  rgb(179, 197, 197);
+}
