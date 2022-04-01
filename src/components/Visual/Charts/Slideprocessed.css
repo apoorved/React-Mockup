@@ -1,0 +1,39 @@
+.row1{
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.col-21{
+    margin-right: 350px ;
+    width: 200px;
+
+}
+
+
+.col-41{
+    
+    margin-right: 100px;
+
+}
+
+.col-51{
+    margin-right: 100px;
+}
+
+
+.col-71{
+    margin-right: 50px;
+
+    
+
+}
+
+.col-81{
+    
+    margin-right: 50px;
+    
+}
+
+.row4{
+    padding-top: 30px;
+}

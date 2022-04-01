@@ -1,8 +1,7 @@
 import Sidebar from "./components/sidebar/Sidebar";
 import Head1 from "./components/Headpart/Head1";
-import Content from "./components/content/Content";
-import Accuracy from "./components/content/Accuracy";
-import Tracker from "./components/content/Tracker";
+import Content from "./components/Visual/Content.jsx"
+
 import "./App.css";
 
 function App() {
@@ -11,6 +10,7 @@ function App() {
       <Sidebar/>
       <div className="container2">
         <Head1/>
+        <Content/>
 
       </div>
     </div>
